@@ -10,6 +10,15 @@
       "photo": "https://randomuser.me/api/portraits/men/3.jpg"
     },
     {
+      "id": "5b2eee0a8fdd5b71c81484902",
+      "age": 29,
+      "name": "Campos York",
+      "gender": "male",
+      "company": "AVENETRO",
+      "email": "camposyork@avenetro.com",
+      "photo": "https://randomuser.me/api/portraits/men/3.jpg"
+    },
+    {
       "id": "5b2eee0a9cd29e820c10edad",
       "age": 20,
       "name": "Esperanza Boone",
