@@ -10,11 +10,17 @@ app.get("/", (req, res) => {
 });
 
 app.get("/find", (req, res) => {
-  const inputEmail = req.query.email;
-  console.log(inputEmail)
-  const filteredEmail = contacts.find((entry) => entry.email === inputEmail);
-  console.log(filteredEmail)
-  res.send(filteredEmail);
+  const inputTerm = req.query.entry;
+  const filteredTerm = contacts.find(
+    (entry) =>
+      entry.email.toLowerCase() === inputTerm.toLowerCase() ||
+      entry.name.toLowerCase() === inputTerm.toLowerCase()
+  );
+  if (filteredTerm) {
+    res.send(filteredTerm);
+  } else {
+    res.status(404);
+  }
 });
 
 // TODO add your routes and helper functions here
