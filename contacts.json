@@ -37,6 +37,24 @@
       "photo": "https://randomuser.me/api/portraits/men/45.jpg"
     },
     {
+      "id": "5b2eee0a582ba867abbd7ce8",
+      "age": 39,
+      "name": "Holden Barry",
+      "gender": "male",
+      "company": "CODAX",
+      "email": "holdenbarry@codax.com",
+      "photo": "https://randomuser.me/api/portraits/men/45.jpg"
+    },
+    {
+      "id": "5b2eee0a582ba867abbd7ce9",
+      "age": 39,
+      "name": "Holden Barry",
+      "gender": "male",
+      "company": "CODAX",
+      "email": "holdenbarry@codax.com",
+      "photo": "https://randomuser.me/api/portraits/men/45.jpg"
+    },
+    {
       "id": "5b2eee0afe5f471c63fa7acf",
       "age": 22,
       "name": "Daniels Barlow",
