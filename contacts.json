@@ -10,8 +10,8 @@
       "email": "fakeemail@fakeit.com",
       "status": "active",
       "primaryContact":{
-        "firstname": "James",
-        "lastname": "Smiths",
+        "firstName": "James",
+        "lastName": "Smiths",
         "contactEmail": "james.smiths@fakeit.com",
         "jobRole": "DevOps Engineer"
       }
@@ -27,8 +27,8 @@
       "email": "esperanzaboone@cosmetex.com",
       "status": "active",
       "primaryContact":{
-        "firstname": "John",
-        "lastname": "Smiths123",
+        "firstName": "John",
+        "lastName": "Smiths123",
         "contactEmail": "john.smiths@fakeit.com",
         "jobRole": "Platform Engineer"
       }
@@ -44,8 +44,8 @@
       "email": "esperanzaboone@cosmetex.com",
       "status": "inactive",
       "primaryContact":{
-        "firstname": "John",
-        "lastname":"Smiths456",
+        "firstName": "John",
+        "lastName":"Smiths456",
         "contactEmail": "john.smiths@fakeit.com",
         "jobRole": "Platform Engineer"
       }
@@ -61,8 +61,8 @@
       "email": "holdenbarry@codax.com",
       "status": "Active",
       "primaryContact":{
-        "firstname": "Sales",
-        "lastname": "Checker",
+        "firstName": "Sales",
+        "lastName": "Checker",
         "contactEmail": "sales.checker@fakeit.com",
         "jobRole": "Farmer"
       }
