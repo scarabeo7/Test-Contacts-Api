@@ -3,14 +3,15 @@
       "accountName": "Campos York",
       "address1": "6 Fake Address",
       "address2": "Fake road",
-      "address3": "Fake Address 3",
       "city": "Birmingham",
       "county": "West Midlands",
       "postcode": "PO12 4YT",
       "countryRegion": "United Kingdom",
       "email": "fakeemail@fakeit.com",
+      "status": "active",
       "primaryContact":{
-        "fullName": "James Smiths",
+        "firstname": "James",
+        "lastname": "Smiths",
         "contactEmail": "james.smiths@fakeit.com",
         "jobRole": "DevOps Engineer"
       }
@@ -19,14 +20,15 @@
       "accountName": "Esperanza Boone 123",
       "address1": "5 Fake Address",
       "address2": "Fake road",
-      "address3": "Fake Address 3",
       "city": "Birmingham",
       "county": "West Midlands",
       "postcode": "PO12 4YT",
       "countryRegion": "United Kingdom",
       "email": "esperanzaboone@cosmetex.com",
+      "status": "active",
       "primaryContact":{
-        "fullName": "John Smiths 123",
+        "firstname": "John",
+        "lastname": "Smiths123",
         "contactEmail": "john.smiths@fakeit.com",
         "jobRole": "Platform Engineer"
       }
@@ -35,14 +37,15 @@
       "accountName": "Esperanza Boone",
       "address1": "8 Fake Address",
       "address2": "Fake road",
-      "address3": "Fake Address 3",
       "city": "Birmingham",
       "county": "West Midlands",
       "postcode": "PO12 4YT",
       "countryRegion": "United Kingdom",
       "email": "esperanzaboone@cosmetex.com",
+      "status": "inactive",
       "primaryContact":{
-        "fullName": "John Smiths 456",
+        "firstname": "John",
+        "lastname":"Smiths456",
         "contactEmail": "john.smiths@fakeit.com",
         "jobRole": "Platform Engineer"
       }
@@ -51,14 +54,15 @@
       "accountName": "Holden Barry",
       "address1": "6 Fake Address",
       "address2": "Fake road",
-      "address3": "Fake Address 3",
       "city": "Birmingham",
       "county": "West Midlands",
       "postcode": "LS45 0MQ",
       "countryRegion": "United Kingdom",
       "email": "holdenbarry@codax.com",
+      "status": "Active",
       "primaryContact":{
-        "fullName": "Sales Checker",
+        "firstname": "Sales",
+        "lastname": "Checker",
         "contactEmail": "sales.checker@fakeit.com",
         "jobRole": "Farmer"
       }
