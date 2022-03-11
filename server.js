@@ -16,7 +16,7 @@ app.get("/:find", (req, res) => {
       entry.postcode.replace(/\s/g, "").toLowerCase() === getParam
   );
 
-  filteredParam
+  filteredParam.length != 0
     ? res.send(filteredParam)
     : res
         .status(404)
