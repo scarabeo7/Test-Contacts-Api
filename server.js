@@ -1,8 +1,11 @@
 const express = require("express");
+const cors = require ('cors')
 
 const app = express();
 
 const { contacts } = require("./contacts.json");
+
+app.use(cors())
 
 app.get("/", (req, res) => {
   res.send(contacts);
