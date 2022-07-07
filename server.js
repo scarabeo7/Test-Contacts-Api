@@ -5,7 +5,9 @@ const app = express();
 
 const { contacts } = require("./contacts.json");
 
-app.use(cors())
+app.use(cors(
+  {origin: "http://localhost:3000"}
+))
 
 app.get("/", (req, res) => {
   res.send(contacts);
